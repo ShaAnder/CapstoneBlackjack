@@ -45,11 +45,14 @@ First clone this repo
 ```sh
 git clone
 ```
- install to get the dependancies
+
+Install to get the dependancies
 
 ```sh
 python3 -m pip install -r requirements.txt
 ```
+
+Start server / run terminal
 
 ```sh
 Start server
